@@ -1,0 +1,23 @@
+ID: 1 | Product Name: Huggies Diapers | Department Name: null | Price: 12.99 | Stock Quantity: 60
+--------------------------------------------------------------------------------------------------
+ID: 2 | Product Name: Slim Jim | Department Name: null | Price: 8.99 | Stock Quantity: 10
+--------------------------------------------------------------------------------------------------
+ID: 3 | Product Name: Cheez Its | Department Name: null | Price: 12.39 | Stock Quantity: 36
+--------------------------------------------------------------------------------------------------
+ID: 4 | Product Name: Elmers Glue | Department Name: null | Price: 10 | Stock Quantity: 30
+--------------------------------------------------------------------------------------------------
+ID: 5 | Product Name: Scotch Tape | Department Name: null | Price: 9.8 | Stock Quantity: 6
+--------------------------------------------------------------------------------------------------
+ID: 6 | Product Name: Planters Nuts | Department Name: null | Price: 8.9 | Stock Quantity: 24
+--------------------------------------------------------------------------------------------------
+ID: 7 | Product Name: Mott's Fruit Snacks | Department Name: null | Price: 6.58 | Stock Quantity: 40
+--------------------------------------------------------------------------------------------------
+ID: 8 | Product Name: Goldfish Snacks | Department Name: null | Price: 9.98 | Stock Quantity: 30
+--------------------------------------------------------------------------------------------------
+ID: 9 | Product Name: Snyder's Pretzels | Department Name: null | Price: 25.87 | Stock Quantity: 48
+--------------------------------------------------------------------------------------------------
+ID: 10 | Product Name: Granola Bars | Department Name: null | Price: 4.98 | Stock Quantity: 24
+--------------------------------------------------------------------------------------------------
+
+? Please enter product ID 1
+? Please enter the quantity 2
